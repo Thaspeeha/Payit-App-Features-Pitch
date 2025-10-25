@@ -10,7 +10,7 @@ Though late to share this, it was a great experience and a fantastic involvement
 
 [![Instagram Reel](https://img.shields.io/badge/Reel-Instagram-833ab4?logo=instagram)](https://www.instagram.com/reel/C1EvjsmtNq2/)
 
-## 🚀 My Innovation Challenge Certificates
+## 🚀 My Innovation Challenge Certificate
 
 [![Certificate](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/honors/)
 
