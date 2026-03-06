@@ -19,8 +19,8 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 
 ## 👩‍💻 Contributors
 
-Laiba Shadbash
-Sumaiya Tabassum
+- Laiba Shadbash
+- Sumaiya Tabassum
 
 ## 🚀 My Certificate
 
