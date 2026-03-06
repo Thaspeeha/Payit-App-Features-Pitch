@@ -8,14 +8,11 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 
 ### Proposed Schemes
 
--Giving a stepby-step guide on how to use
-the app.
--Improving the UI/UX
-Design.
+-Giving a stepby-step guide on how to use the app.
+-Improving the UI/UX Design.
 -Visual Identity.
 -Social Impacts.
--Marketing and
-Communication Strategy.
+-Marketing and Communication Strategy.
 
 [![Instagram Reel](https://img.shields.io/badge/Reel-Instagram-833ab4?logo=instagram)](https://www.instagram.com/reel/C1EvjsmtNq2/)
 
