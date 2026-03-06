@@ -14,7 +14,7 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 - 🌍 Social Impact & Finacial Inclusion
 - 📢 Marketing & Communication Strategy
 
-
+## ✨ Highlights
 [![Instagram Reel](https://img.shields.io/badge/Reel-Instagram-833ab4?logo=instagram)](https://www.instagram.com/reel/C1EvjsmtNq2/)
 
 ## 👩‍💻 Contributors
