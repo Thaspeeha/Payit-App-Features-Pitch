@@ -8,14 +8,21 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 
 ## 🚀 Proposed Schemes
 
-- 🧩 Visual Identity
-- 🌍 Social Impact
+- Functionality & Features
+- 📱 Step-by-Step App Guide(ui/ux)
+- 🧩 Visual Identity & Branding
+- 🌍 Social Impact & Finacial Inclusion
 - 📢 Marketing & Communication Strategy
 
 
 [![Instagram Reel](https://img.shields.io/badge/Reel-Instagram-833ab4?logo=instagram)](https://www.instagram.com/reel/C1EvjsmtNq2/)
 
-## 🚀 My Innovation Challenge Certificate
+## 👩‍💻 Contributors
+
+Laiba Shadbash
+Sumaiya Tabassum
+
+## 🚀 My Certificate
 
 [![Certificate](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/honors/)
 
