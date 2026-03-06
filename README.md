@@ -1,6 +1,6 @@
 # Payit-App-Features-Pitch
 
-## 🚀 My Innovation Challenge Experience
+## 🚀 Overview
 
 **Innovation Challenge Program and Growth Summit 2023** conducted by **FAB Bank**.  
 
