@@ -6,8 +6,6 @@
 
 Our team of 3 was shortlisted based on our presentation about the **Payit App**, a digital wallet by FAB Bank. The challenge involved creating ideas for improving the app.
 
-### Proposed Schemes
-
 ## 🚀 Proposed Schemes
 
 - 🧩 Visual Identity
