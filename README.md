@@ -10,9 +10,9 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 
 ## 🚀 Proposed Schemes
 
--🧩 Visual Identity
--🌍 Social Impact
--📢 Marketing & Communication Strategy
+- 🧩 Visual Identity
+- 🌍 Social Impact
+- 📢 Marketing & Communication Strategy
 
 
 [![Instagram Reel](https://img.shields.io/badge/Reel-Instagram-833ab4?logo=instagram)](https://www.instagram.com/reel/C1EvjsmtNq2/)
