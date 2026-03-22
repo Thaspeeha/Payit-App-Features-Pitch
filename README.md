@@ -24,5 +24,7 @@ Our team of 3 was shortlisted based on our presentation about the **Payit App**,
 
 ## 🚀 My Certificate
 
-[![Certificate](https://img.shields.io/badge/Payit-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/honors/)
+[![Certificate](https://img.shields.io/badge/Payit-Certificate-blue?logo=linkedin&logoColor=white)](## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/Nezuware-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1746135579539/single-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw))
 
